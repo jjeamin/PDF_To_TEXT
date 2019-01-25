@@ -38,3 +38,9 @@ pdf -> text
 - pdf에 비밀번호가 있을 경우 [Here](https://smallpdf.com/kr/unlock-pdf)
 - 하루 최대 약 10000단어..
 - txt파일은 손질하지 않고 저장이 됩니다
+
+![one](/img/1.jpg)
+
+![two](/img/2.jpg)
+
+![three](/img/3.jpg)
