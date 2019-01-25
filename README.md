@@ -40,5 +40,6 @@ pdf -> text
 - txt파일은 손질하지 않고 저장이 됩니다
 
 ![1](https://user-images.githubusercontent.com/39845657/51756315-0c369400-2104-11e9-8955-9979a52e15e3.JPG)
+<img width="200" src=https://user-images.githubusercontent.com/39845657/51756315-0c369400-2104-11e9-8955-9979a52e15e3.JPG>
 ![2](https://user-images.githubusercontent.com/39845657/51756321-1062b180-2104-11e9-92e4-315d5c49e6d4.JPG)
 ![3](https://user-images.githubusercontent.com/39845657/51756322-1062b180-2104-11e9-9bad-08b01cd33a59.JPG)
