@@ -6,7 +6,7 @@ pdf에서 text파일로 변환 후 번역하는 프로그램 입니다.
   + [튜토리얼](http://www.unixuser.org/~euske/python/pdfminer/programming.html)
   + [GitHub](https://github.com/euske/pdfminer/blob/master/tools/pdf2txt.py)
 ```  
-$ pip install translate
+$ pip install pdfminer.six
 ```  
 - tqdm
   + pdf -> text 변환 상태바
