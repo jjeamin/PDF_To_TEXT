@@ -46,15 +46,6 @@ def clean_text_file(path):
 
     return clean_txt.decode('utf-8')
 
-def translation(text):
-    translator= Translator(to_lang="ko")
-
-    for i in text:
-        translation = translator.translate(str(i,'utf-8'))
-        print(translation)
-
-    #return trans_text
-
 def isExistFile(file_path):
     file_name = file_path.split('/')[-1]
 
